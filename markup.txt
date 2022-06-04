@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html class="ng-csp" data-placeholder-focus="false" lang="en" data-locale="en" >
+	<head
+ data-requesttoken="O1UvCfqgY9cEam9qAEhYn+2g1ufNKsdnHVokQDHzgz8=:XiNaa9HEKLNMBjwQR38J1pjMlYyKS7MSJTtsD3eVxms=">
+		<meta charset="utf-8">
+		<title>
+		Nextcloud		</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+				<meta name="apple-itunes-app" content="app-id=1125420102">
+				<meta name="theme-color" content="#0082c9">
+		<link rel="icon" href="/core/img/favicon.ico">
+		<link rel="apple-touch-icon" href="/core/img/favicon-touch.png">
+		<link rel="mask-icon" sizes="any" href="/core/img/favicon-mask.svg" color="#0082c9">
+		<link rel="manifest" href="/core/img/manifest.json">
+		<link rel="stylesheet" href="/index.php/css/core/d5cf-ef96-server.css?v=d41d8cd98f00b204e9800998ecf8427e-3c9b21d9-0">
+<link rel="stylesheet" href="/index.php/css/core/d5cf-ef96-css-variables.css?v=d41d8cd98f00b204e9800998ecf8427e-3c9b21d9-0">
+<link rel="stylesheet" href="/core/css/guest.css?v=3c9b21d9-0">
+		<script nonce="TzFVdkNmcWdZOWNFYW05cUFFaFluKzJnMXVmTktzZG5IVm9rUURIemd6OD06WGlOYWE5SEVLTE5NQmp3UVIzOEoxcGpNbFl5S1M3TVNKVHRzRDNlVnhtcz0=" defer src="/index.php/core/js/oc.js?v=3c9b21d9"></script>
+<script nonce="TzFVdkNmcWdZOWNFYW05cUFFaFluKzJnMXVmTktzZG5IVm9rUURIemd6OD06WGlOYWE5SEVLTE5NQmp3UVIzOEoxcGpNbFl5S1M3TVNKVHRzRDNlVnhtcz0=" defer src="/core/js/dist/main.js?v=3c9b21d9-0"></script>
+<script nonce="TzFVdkNmcWdZOWNFYW05cUFFaFluKzJnMXVmTktzZG5IVm9rUURIemd6OD06WGlOYWE5SEVLTE5NQmp3UVIzOEoxcGpNbFl5S1M3TVNKVHRzRDNlVnhtcz0=" defer src="/core/js/dist/files_fileinfo.js?v=3c9b21d9-0"></script>
+<script nonce="TzFVdkNmcWdZOWNFYW05cUFFaFluKzJnMXVmTktzZG5IVm9rUURIemd6OD06WGlOYWE5SEVLTE5NQmp3UVIzOEoxcGpNbFl5S1M3TVNKVHRzRDNlVnhtcz0=" defer src="/core/js/dist/files_client.js?v=3c9b21d9-0"></script>
+<script nonce="TzFVdkNmcWdZOWNFYW05cUFFaFluKzJnMXVmTktzZG5IVm9rUURIemd6OD06WGlOYWE5SEVLTE5NQmp3UVIzOEoxcGpNbFl5S1M3TVNKVHRzRDNlVnhtcz0=" defer src="/index.php/js/core/merged-template-prepend.js?v=3c9b21d9-0"></script>
+<script nonce="TzFVdkNmcWdZOWNFYW05cUFFaFluKzJnMXVmTktzZG5IVm9rUURIemd6OD06WGlOYWE5SEVLTE5NQmp3UVIzOEoxcGpNbFl5S1M3TVNKVHRzRDNlVnhtcz0=" defer src="/core/js/backgroundjobs.js?v=3c9b21d9-0"></script>
+		<link rel="stylesheet" href="/index.php/css/icons/icons-vars.css?v=1652972803"/>	</head>
+	<body id="body-login">
+		<noscript>
+	<div id="nojavascript">
+		<div>
+			This application requires JavaScript for correct operation. Please <a href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer noopener">enable JavaScript</a> and reload the page.		</div>
+	</div>
+</noscript>
+					<input type="hidden" id="initial-state-core-config" value="eyJzZXNzaW9uX2xpZmV0aW1lIjoxNDQwLCJzZXNzaW9uX2tlZXBhbGl2ZSI6dHJ1ZSwiYXV0b19sb2dvdXQiOmZhbHNlLCJ2ZXJzaW9uIjoiMjEuMC43LjAiLCJ2ZXJzaW9uc3RyaW5nIjoiMjEuMC43IiwiZW5hYmxlX2F2YXRhcnMiOnRydWUsImxvc3RfcGFzc3dvcmRfbGluayI6bnVsbCwibW9kUmV3cml0ZVdvcmtpbmciOmZhbHNlLCJzaGFyaW5nLm1heEF1dG9jb21wbGV0ZVJlc3VsdHMiOjI1LCJzaGFyaW5nLm1pblNlYXJjaFN0cmluZ0xlbmd0aCI6MCwiYmxhY2tsaXN0X2ZpbGVzX3JlZ2V4IjoiXFwuKHBhcnR8ZmlsZXBhcnQpJCJ9">
+					<input type="hidden" id="initial-state-core-capabilities" value="eyJjb3JlIjp7InBvbGxpbnRlcnZhbCI6NjAsIndlYmRhdi1yb290IjoicmVtb3RlLnBocFwvd2ViZGF2In0sImJydXRlZm9yY2UiOnsiZGVsYXkiOjB9LCJmaWxlcyI6eyJiaWdmaWxlY2h1bmtpbmciOnRydWUsImJsYWNrbGlzdGVkX2ZpbGVzIjpbIi5odGFjY2VzcyJdLCJkaXJlY3RFZGl0aW5nIjp7InVybCI6Imh0dHA6XC9cL2Nsb3VkLjBiby5ydVwvb2NzXC92Mi5waHBcL2FwcHNcL2ZpbGVzXC9hcGlcL3YxXC9kaXJlY3RFZGl0aW5nIiwiZXRhZyI6IjYyMjZiYTg3MzM3M2Y1ZTczYTNlZjUwNDEwNzUyM2Y3In0sImNvbW1lbnRzIjp0cnVlLCJ1bmRlbGV0ZSI6dHJ1ZSwidmVyc2lvbmluZyI6dHJ1ZX0sImFjdGl2aXR5Ijp7ImFwaXYyIjpbImZpbHRlcnMiLCJmaWx0ZXJzLWFwaSIsInByZXZpZXdzIiwicmljaC1zdHJpbmdzIl19LCJvY20iOnsiZW5hYmxlZCI6dHJ1ZSwiYXBpVmVyc2lvbiI6IjEuMC1wcm9wb3NhbDEiLCJlbmRQb2ludCI6Imh0dHA6XC9cL2Nsb3VkLjBiby5ydVwvaW5kZXgucGhwXC9vY20iLCJyZXNvdXJjZVR5cGVzIjpbeyJuYW1lIjoiZmlsZSIsInNoYXJlVHlwZXMiOlsidXNlciIsImdyb3VwIl0sInByb3RvY29scyI6eyJ3ZWJkYXYiOiJcL3B1YmxpYy5waHBcL3dlYmRhdlwvIn19XX0sImRhdiI6eyJjaHVua2luZyI6IjEuMCJ9LCJub3RpZmljYXRpb25zIjp7Im9jcy1lbmRwb2ludHMiOlsibGlzdCIsImdldCIsImRlbGV0ZSIsImRlbGV0ZS1hbGwiLCJpY29ucyIsInJpY2gtc3RyaW5ncyIsImFjdGlvbi13ZWIiLCJ1c2VyLXN0YXR1cyJdLCJwdXNoIjpbImRldmljZXMiLCJvYmplY3QtZGF0YSIsImRlbGV0ZSJdLCJhZG1pbi1ub3RpZmljYXRpb25zIjpbIm9jcyIsImNsaSJdfSwicGFzc3dvcmRfcG9saWN5Ijp7Im1pbkxlbmd0aCI6OCwiZW5mb3JjZU5vbkNvbW1vblBhc3N3b3JkIjp0cnVlLCJlbmZvcmNlTnVtZXJpY0NoYXJhY3RlcnMiOmZhbHNlLCJlbmZvcmNlU3BlY2lhbENoYXJhY3RlcnMiOmZhbHNlLCJlbmZvcmNlVXBwZXJMb3dlckNhc2UiOmZhbHNlLCJhcGkiOnsiZ2VuZXJhdGUiOiJodHRwOlwvXC9jbG91ZC4wYm8ucnVcL29jc1wvdjIucGhwIiwidmFsaWRhdGUiOiJodHRwOlwvXC9jbG91ZC4wYm8ucnVcL29jc1wvdjIucGhwIn19LCJwcm92aXNpb25pbmdfYXBpIjp7InZlcnNpb24iOiIxLjExLjAiLCJBY2NvdW50UHJvcGVydHlTY29wZXNWZXJzaW9uIjoyLCJBY2NvdW50UHJvcGVydHlTY29wZXNGZWRlcmF0aW9uRW5hYmxlZCI6dHJ1ZX0sImZpbGVzX3NoYXJpbmciOnsic2hhcmVieW1haWwiOnsiZW5hYmxlZCI6dHJ1ZSwidXBsb2FkX2ZpbGVzX2Ryb3AiOnsiZW5hYmxlZCI6dHJ1ZX0sInBhc3N3b3JkIjp7ImVuYWJsZWQiOnRydWUsImVuZm9yY2VkIjpmYWxzZX0sImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWV9fSwiYXBpX2VuYWJsZWQiOnRydWUsInB1YmxpYyI6eyJlbmFibGVkIjp0cnVlLCJwYXNzd29yZCI6eyJlbmZvcmNlZCI6ZmFsc2UsImFza0Zvck9wdGlvbmFsUGFzc3dvcmQiOmZhbHNlfSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6ZmFsc2V9LCJtdWx0aXBsZV9saW5rcyI6dHJ1ZSwiZXhwaXJlX2RhdGVfaW50ZXJuYWwiOnsiZW5hYmxlZCI6ZmFsc2V9LCJzZW5kX21haWwiOmZhbHNlLCJ1cGxvYWQiOnRydWUsInVwbG9hZF9maWxlc19kcm9wIjp0cnVlfSwicmVzaGFyaW5nIjp0cnVlLCJ1c2VyIjp7InNlbmRfbWFpbCI6ZmFsc2UsImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWV9fSwiZ3JvdXBfc2hhcmluZyI6dHJ1ZSwiZ3JvdXAiOnsiZW5hYmxlZCI6dHJ1ZSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6dHJ1ZX19LCJkZWZhdWx0X3Blcm1pc3Npb25zIjoyMywiZmVkZXJhdGlvbiI6eyJvdXRnb2luZyI6dHJ1ZSwiaW5jb21pbmciOnRydWUsImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWV9fSwic2hhcmVlIjp7InF1ZXJ5X2xvb2t1cF9kZWZhdWx0IjpmYWxzZSwiYWx3YXlzX3Nob3dfdW5pcXVlIjp0cnVlfX0sInRoZW1pbmciOnsibmFtZSI6Ik5leHRjbG91ZCIsInVybCI6Imh0dHBzOlwvXC9uZXh0Y2xvdWQuY29tIiwic2xvZ2FuIjoiYSBzYWZlIGhvbWUgZm9yIGFsbCB5b3VyIGRhdGEiLCJjb2xvciI6IiMwMDgyYzkiLCJjb2xvci10ZXh0IjoiI2ZmZmZmZiIsImNvbG9yLWVsZW1lbnQiOiIjMDA4MmM5IiwiY29sb3ItZWxlbWVudC1icmlnaHQiOiIjMDA4MmM5IiwiY29sb3ItZWxlbWVudC1kYXJrIjoiIzAwODJjOSIsImxvZ28iOiJodHRwOlwvXC9jbG91ZC4wYm8ucnVcL2NvcmVcL2ltZ1wvbG9nb1wvbG9nby5zdmc/dj0wIiwiYmFja2dyb3VuZCI6Imh0dHA6XC9cL2Nsb3VkLjBiby5ydVwvY29yZVwvaW1nXC9iYWNrZ3JvdW5kLnBuZz92PTAiLCJiYWNrZ3JvdW5kLXBsYWluIjpmYWxzZSwiYmFja2dyb3VuZC1kZWZhdWx0Ijp0cnVlLCJsb2dvaGVhZGVyIjoiaHR0cDpcL1wvY2xvdWQuMGJvLnJ1XC9jb3JlXC9pbWdcL2xvZ29cL2xvZ28uc3ZnP3Y9MCIsImZhdmljb24iOiJodHRwOlwvXC9jbG91ZC4wYm8ucnVcL2NvcmVcL2ltZ1wvbG9nb1wvbG9nby5zdmc/dj0wIn0sInVzZXJfc3RhdHVzIjp7ImVuYWJsZWQiOnRydWUsInN1cHBvcnRzX2Vtb2ppIjp0cnVlfSwid2VhdGhlcl9zdGF0dXMiOnsiZW5hYmxlZCI6dHJ1ZX19">
+					<input type="hidden" id="initial-state-accessibility-data" value="eyJjaGVja01lZGlhIjp0cnVlLCJ0aGVtZSI6ZmFsc2UsImhpZ2hjb250cmFzdCI6ZmFsc2V9">
+				<div class="wrapper">
+			<div class="v-align">
+									<header role="banner">
+						<div id="header">
+							<div class="logo">
+								<h1 class="hidden-visually">
+									Nextcloud								</h1>
+															</div>
+						</div>
+					</header>
+								<main>
+					
+<div class="error">
+	<h2>Access through untrusted domain</h2>
+
+	<p>
+		Please contact your administrator. If you are an administrator, edit the &quot;trusted_domains&quot; setting in config/config.php like the example in config.sample.php.	</p>
+	<br />
+	<p>
+		Further information how to configure this can be found in the <a href="https://docs.nextcloud.com/server/21/go.php?to=admin-trusted-domains" target="blank">documentation</a>.	</p>
+</div>
+				</main>
+			</div>
+		</div>
+		<footer role="contentinfo">
+			<p class="info">
+				<a href="https://nextcloud.com" target="_blank" rel="noreferrer noopener">Nextcloud</a> – a safe home for all your data			</p>
+		</footer>
+	</body>
+</html>
